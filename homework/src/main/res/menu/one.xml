@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="新建联系人"
+        android:id="@+id/insert"
+        android:icon="@drawable/image1">
+    </item>
+    <item android:title="查找所有联系人"
+        android:id="@+id/select"
+        android:icon="@drawable/image2">
+    </item>
+
+</menu>
